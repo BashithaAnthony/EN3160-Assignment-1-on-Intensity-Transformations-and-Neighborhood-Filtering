@@ -14,7 +14,7 @@ This repository contains my implementation for EN3160 Assignment 1, covering int
 - Bilateral filtering (OpenCV and custom implementation) compared against Gaussian blur
 
 ## Structure
-- `EN3160_Assignment1.ipynb` – Main Jupyter notebook with all code and results
+- `Answer_book.ipynb` – Main Jupyter notebook with all code and results
 - `230045X_a01.pdf` – Final report exported from the notebook
 
 ## Author
